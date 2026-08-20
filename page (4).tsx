@@ -1,0 +1,1 @@
+import Legal from "../../components/Legal"; export default function Termini(){return <Legal title="Termini e condizioni"><p>InOfferta.shop è attualmente in preparazione. Non sono attivi acquisti, ordini o pagamenti.</p><p>I termini commerciali definitivi saranno pubblicati prima dell'attivazione delle vendite.</p></Legal>}

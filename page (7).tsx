@@ -1,0 +1,1 @@
+export default function Admin(){return <main className="section"><div className="container"><h1>Admin</h1><div className="notice">Struttura amministrativa predisposta. Nessun dato reale o sistema di gestione è attivo.</div></div></main>}

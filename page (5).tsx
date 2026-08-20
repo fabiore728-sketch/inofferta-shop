@@ -1,0 +1,1 @@
+import Legal from "../../components/Legal"; export default function Resi(){return <Legal title="Resi e rimborsi"><p>Non essendo attive le vendite, non sono attualmente disponibili procedure di reso o rimborso.</p><p>La politica definitiva sarà pubblicata prima dell'attivazione delle vendite.</p><p>Contatto: fabiore728@gmail.com</p></Legal>}

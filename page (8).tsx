@@ -1,0 +1,1 @@
+export default function Account(){return <main className="section"><div className="container"><h1>Account</h1><div className="notice">L'area account sarà attivata in una fase successiva. Nessun accesso o ordine reale è attualmente disponibile.</div></div></main>}

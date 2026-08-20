@@ -1,0 +1,1 @@
+export default function Legal({title,children}:{title:string,children:React.ReactNode}){return <main className="section"><div className="container prose"><h1>{title}</h1>{children}</div></main>}

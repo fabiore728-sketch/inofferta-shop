@@ -1,0 +1,1 @@
+export default function Catalogo(){return <main className="section"><div className="container"><span className="badge">Catalogo</span><h1>Catalogo</h1><div className="empty"><div><h2>Nessun prodotto pubblicato</h2><p>I prodotti saranno aggiunti successivamente utilizzando esclusivamente dati reali.</p></div></div></div></main>}

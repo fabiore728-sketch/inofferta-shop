@@ -1,0 +1,1 @@
+import Legal from "../../components/Legal"; export default function Cookie(){return <Legal title="Cookie Policy"><p>Questa pagina è predisposta per la futura gestione dei cookie e degli eventuali strumenti tecnici utilizzati dal sito.</p><p>Le informazioni definitive saranno pubblicate prima dell'eventuale apertura commerciale.</p></Legal>}

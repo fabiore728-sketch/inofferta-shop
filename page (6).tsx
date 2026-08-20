@@ -1,0 +1,1 @@
+import Legal from "../../components/Legal"; export default function Privacy(){return <Legal title="Privacy Policy"><p>Questa è una pagina predisposta per la futura documentazione privacy di InOfferta.shop.</p><p>La documentazione definitiva sarà completata prima dell'eventuale apertura commerciale.</p><p>Contatto: fabiore728@gmail.com</p></Legal>}
